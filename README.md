@@ -53,4 +53,4 @@ Or use **Live Server** in VS Code for auto-refresh.
 ## 🙋‍♂️ Author
 
 - **Priyanka Mohole**
-- GitHub: [@priyankamoholw](https://github.com/priyankamohole)
+- GitHub: [@priyankamohole](https://github.com/priyankamohole)

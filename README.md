@@ -45,7 +45,7 @@ Or use **Live Server** in VS Code for auto-refresh.
 ## 📸 Screenshot
 
 ![Game UI]
-![](demos/demo1.png)
+!(demos/demo1.png)
 ---
 
 

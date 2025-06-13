@@ -40,7 +40,7 @@ Or use **Live Server** in VS Code for auto-refresh.
 - Color-coded result messages
 - Responsive and simple UI
 
----
+
 
 ---
 

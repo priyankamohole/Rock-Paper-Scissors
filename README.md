@@ -4,13 +4,6 @@ A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**
 
 ---
 
-## 🎬 Demo
-
-[![Watch the demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-> _Click the image above to watch the demo video._
-
----
-
 ## 📁 Files Overview
 
 - `index.html` – Game UI structure
@@ -51,8 +44,8 @@ Or use **Live Server** in VS Code for auto-refresh.
 
 ## 📸 Screenshot
 
-!Game UI
-I:\Priyanka\JS Project\Rock-Paper-Scissors\demos\demo1.png
+![Game UI]
+
 
 ---
 

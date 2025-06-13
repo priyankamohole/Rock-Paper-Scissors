@@ -46,7 +46,7 @@ Or use **Live Server** in VS Code for auto-refresh.
 
 ![Game UI]
 
-<img height=500 src="demos/demo1.png">
+<img height=500 src="Rock-Paper-Scissors/demos/demo1.png">
 
 !(demos/demo1.png)
 

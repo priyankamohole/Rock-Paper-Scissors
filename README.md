@@ -45,8 +45,7 @@ Or use **Live Server** in VS Code for auto-refresh.
 ## 📸 Screenshot
 Game UI
 
-<img width="500" alt="demo1" src="https://github.com/user-attachments/assets/f1eb24f9-b6d2-4eac-83b9-8ecf86be06d8" />
-
+<img width="500" alt="demo1" src="https://github.com/user-attachments/assets/" />
 
 
 ---

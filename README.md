@@ -45,7 +45,7 @@ Or use **Live Server** in VS Code for auto-refresh.
 ## 📸 Screenshot
 Game UI
 
-<img width="500" alt="demo1" src="https://github.com/user-attachments/assets/" />
+<img width="500" alt="demo1" src="[https://github.com/user-attachments/assets/](https://github.com/priyankamohole/Rock-Paper-Scissors/blob/main/demo1.png)" />
 
 
 ---
